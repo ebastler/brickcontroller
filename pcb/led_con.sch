@@ -1,0 +1,1486 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R_Small R?
+U 1 1 604D0BD7
+P 1950 1000
+AR Path="/604D0BD7" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0BD7" Ref="R10"  Part="1" 
+F 0 "R10" H 2009 1046 50  0000 L CNN
+F 1 "100R" H 2009 955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1950 1000 50  0001 C CNN
+F 3 "~" H 1950 1000 50  0001 C CNN
+F 4 "C22775" H 1950 1000 50  0001 C CNN "LCSC"
+	1    1950 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0BDD
+P 2450 1000
+AR Path="/604D0BDD" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0BDD" Ref="R11"  Part="1" 
+F 0 "R11" H 2509 1046 50  0000 L CNN
+F 1 "100R" H 2509 955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2450 1000 50  0001 C CNN
+F 3 "~" H 2450 1000 50  0001 C CNN
+F 4 "C22775" H 2450 1000 50  0001 C CNN "LCSC"
+	1    2450 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0BE3
+P 2950 1000
+AR Path="/604D0BE3" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0BE3" Ref="R12"  Part="1" 
+F 0 "R12" H 3009 1046 50  0000 L CNN
+F 1 "100R" H 3009 955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2950 1000 50  0001 C CNN
+F 3 "~" H 2950 1000 50  0001 C CNN
+F 4 "C22775" H 2950 1000 50  0001 C CNN "LCSC"
+	1    2950 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0BE9
+P 3450 1000
+AR Path="/604D0BE9" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0BE9" Ref="R13"  Part="1" 
+F 0 "R13" H 3509 1046 50  0000 L CNN
+F 1 "100R" H 3509 955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 3450 1000 50  0001 C CNN
+F 3 "~" H 3450 1000 50  0001 C CNN
+F 4 "C22775" H 3450 1000 50  0001 C CNN "LCSC"
+	1    3450 1000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0BEF
+P 1650 1350
+AR Path="/604D0BEF" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0BEF" Ref="J5"  Part="1" 
+F 0 "J5" H 1730 1342 50  0000 L CNN
+F 1 "Conn_01x02" H 1730 1251 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 1650 1350 50  0001 C CNN
+F 3 "~" H 1650 1350 50  0001 C CNN
+	1    1650 1350
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0BF5
+P 2150 1350
+AR Path="/604D0BF5" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0BF5" Ref="J6"  Part="1" 
+F 0 "J6" H 2230 1342 50  0000 L CNN
+F 1 "Conn_01x02" H 2230 1251 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 2150 1350 50  0001 C CNN
+F 3 "~" H 2150 1350 50  0001 C CNN
+	1    2150 1350
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0BFB
+P 2650 1350
+AR Path="/604D0BFB" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0BFB" Ref="J7"  Part="1" 
+F 0 "J7" H 2730 1342 50  0000 L CNN
+F 1 "Conn_01x02" H 2730 1251 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 2650 1350 50  0001 C CNN
+F 3 "~" H 2650 1350 50  0001 C CNN
+	1    2650 1350
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C01
+P 3150 1350
+AR Path="/604D0C01" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C01" Ref="J8"  Part="1" 
+F 0 "J8" H 3230 1342 50  0000 L CNN
+F 1 "Conn_01x02" H 3230 1251 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 3150 1350 50  0001 C CNN
+F 3 "~" H 3150 1350 50  0001 C CNN
+	1    3150 1350
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C07
+P 3650 1350
+AR Path="/604D0C07" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C07" Ref="J9"  Part="1" 
+F 0 "J9" H 3730 1342 50  0000 L CNN
+F 1 "Conn_01x02" H 3730 1251 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 3650 1350 50  0001 C CNN
+F 3 "~" H 3650 1350 50  0001 C CNN
+	1    3650 1350
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	1450 900  1950 900 
+Connection ~ 1950 900 
+Wire Wire Line
+	1950 900  2450 900 
+Connection ~ 2450 900 
+Wire Wire Line
+	2450 900  2950 900 
+Connection ~ 2950 900 
+Wire Wire Line
+	2950 900  3450 900 
+$Comp
+L power:+3.3V #PWR?
+U 1 1 604D0C19
+P 1450 900
+AR Path="/604D0C19" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0C19" Ref="#PWR027"  Part="1" 
+F 0 "#PWR027" H 1450 750 50  0001 C CNN
+F 1 "+3.3V" H 1465 1073 50  0000 C CNN
+F 2 "" H 1450 900 50  0001 C CNN
+F 3 "" H 1450 900 50  0001 C CNN
+	1    1450 900 
+	1    0    0    -1  
+$EndComp
+Connection ~ 1450 900 
+$Comp
+L Transistor_FET:AO3400A Q?
+U 1 1 604D0C20
+P 1350 1750
+AR Path="/604D0C20" Ref="Q?"  Part="1" 
+AR Path="/604B4BC8/604D0C20" Ref="Q3"  Part="1" 
+F 0 "Q3" H 1555 1796 50  0000 L CNN
+F 1 "AO3400A" H 1555 1705 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1550 1675 50  0001 L CIN
+F 3 "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" H 1350 1750 50  0001 L CNN
+F 4 "C347475" H 1350 1750 50  0001 C CNN "LCSC"
+	1    1350 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 1350 1450 1500
+Wire Wire Line
+	1950 1350 1950 1500
+Wire Wire Line
+	1950 1500 1450 1500
+Connection ~ 1450 1500
+Wire Wire Line
+	1450 1500 1450 1550
+Wire Wire Line
+	2450 1350 2450 1500
+Wire Wire Line
+	2450 1500 1950 1500
+Connection ~ 1950 1500
+Wire Wire Line
+	2950 1350 2950 1500
+Wire Wire Line
+	2950 1500 2450 1500
+Connection ~ 2450 1500
+Wire Wire Line
+	3450 1350 3450 1500
+Wire Wire Line
+	3450 1500 2950 1500
+Connection ~ 2950 1500
+$Comp
+L power:GND #PWR?
+U 1 1 604D0C34
+P 1450 2050
+AR Path="/604D0C34" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0C34" Ref="#PWR031"  Part="1" 
+F 0 "#PWR031" H 1450 1800 50  0001 C CNN
+F 1 "GND" H 1455 1877 50  0000 C CNN
+F 2 "" H 1450 2050 50  0001 C CNN
+F 3 "" H 1450 2050 50  0001 C CNN
+	1    1450 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0C3A
+P 950 1750
+AR Path="/604D0C3A" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0C3A" Ref="R19"  Part="1" 
+F 0 "R19" V 754 1750 50  0000 C CNN
+F 1 "100R" V 845 1750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 950 1750 50  0001 C CNN
+F 3 "~" H 950 1750 50  0001 C CNN
+F 4 "C22775" H 950 1750 50  0001 C CNN "LCSC"
+	1    950  1750
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1450 1950 1450 2000
+Wire Wire Line
+	1050 1750 1100 1750
+Text GLabel 850  1750 0    50   Input ~ 0
+ch1
+$Comp
+L Device:R_Small R?
+U 1 1 604D0C43
+P 5200 1050
+AR Path="/604D0C43" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0C43" Ref="R14"  Part="1" 
+F 0 "R14" H 5259 1096 50  0000 L CNN
+F 1 "100R" H 5259 1005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 5200 1050 50  0001 C CNN
+F 3 "~" H 5200 1050 50  0001 C CNN
+F 4 "C22775" H 5200 1050 50  0001 C CNN "LCSC"
+	1    5200 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0C49
+P 5700 1050
+AR Path="/604D0C49" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0C49" Ref="R15"  Part="1" 
+F 0 "R15" H 5759 1096 50  0000 L CNN
+F 1 "100R" H 5759 1005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 5700 1050 50  0001 C CNN
+F 3 "~" H 5700 1050 50  0001 C CNN
+F 4 "C22775" H 5700 1050 50  0001 C CNN "LCSC"
+	1    5700 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0C4F
+P 6200 1050
+AR Path="/604D0C4F" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0C4F" Ref="R16"  Part="1" 
+F 0 "R16" H 6259 1096 50  0000 L CNN
+F 1 "100R" H 6259 1005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 6200 1050 50  0001 C CNN
+F 3 "~" H 6200 1050 50  0001 C CNN
+F 4 "C22775" H 6200 1050 50  0001 C CNN "LCSC"
+	1    6200 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0C55
+P 6700 1050
+AR Path="/604D0C55" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0C55" Ref="R17"  Part="1" 
+F 0 "R17" H 6759 1096 50  0000 L CNN
+F 1 "100R" H 6759 1005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 6700 1050 50  0001 C CNN
+F 3 "~" H 6700 1050 50  0001 C CNN
+F 4 "C22775" H 6700 1050 50  0001 C CNN "LCSC"
+	1    6700 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0C5B
+P 7200 1050
+AR Path="/604D0C5B" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0C5B" Ref="R18"  Part="1" 
+F 0 "R18" H 7259 1096 50  0000 L CNN
+F 1 "100R" H 7259 1005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 7200 1050 50  0001 C CNN
+F 3 "~" H 7200 1050 50  0001 C CNN
+F 4 "C22775" H 7200 1050 50  0001 C CNN "LCSC"
+	1    7200 1050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C67
+P 5900 1400
+AR Path="/604D0C67" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C67" Ref="J11"  Part="1" 
+F 0 "J11" H 5980 1392 50  0000 L CNN
+F 1 "Conn_01x02" H 5980 1301 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 5900 1400 50  0001 C CNN
+F 3 "~" H 5900 1400 50  0001 C CNN
+	1    5900 1400
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C6D
+P 6400 1400
+AR Path="/604D0C6D" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C6D" Ref="J12"  Part="1" 
+F 0 "J12" H 6480 1392 50  0000 L CNN
+F 1 "Conn_01x02" H 6480 1301 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 6400 1400 50  0001 C CNN
+F 3 "~" H 6400 1400 50  0001 C CNN
+	1    6400 1400
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C73
+P 6900 1400
+AR Path="/604D0C73" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C73" Ref="J13"  Part="1" 
+F 0 "J13" H 6980 1392 50  0000 L CNN
+F 1 "Conn_01x02" H 6980 1301 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 6900 1400 50  0001 C CNN
+F 3 "~" H 6900 1400 50  0001 C CNN
+	1    6900 1400
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C79
+P 7400 1400
+AR Path="/604D0C79" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C79" Ref="J14"  Part="1" 
+F 0 "J14" H 7480 1392 50  0000 L CNN
+F 1 "Conn_01x02" H 7480 1301 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 7400 1400 50  0001 C CNN
+F 3 "~" H 7400 1400 50  0001 C CNN
+	1    7400 1400
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5200 950  5700 950 
+Connection ~ 5700 950 
+Wire Wire Line
+	5700 950  6200 950 
+Connection ~ 6200 950 
+Wire Wire Line
+	6200 950  6700 950 
+Connection ~ 6700 950 
+Wire Wire Line
+	6700 950  7200 950 
+$Comp
+L power:+3.3V #PWR?
+U 1 1 604D0C8B
+P 5200 950
+AR Path="/604D0C8B" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0C8B" Ref="#PWR028"  Part="1" 
+F 0 "#PWR028" H 5200 800 50  0001 C CNN
+F 1 "+3.3V" H 5215 1123 50  0000 C CNN
+F 2 "" H 5200 950 50  0001 C CNN
+F 3 "" H 5200 950 50  0001 C CNN
+	1    5200 950 
+	1    0    0    -1  
+$EndComp
+Connection ~ 5200 950 
+$Comp
+L Transistor_FET:AO3400A Q?
+U 1 1 604D0C92
+P 5100 1800
+AR Path="/604D0C92" Ref="Q?"  Part="1" 
+AR Path="/604B4BC8/604D0C92" Ref="Q4"  Part="1" 
+F 0 "Q4" H 5305 1846 50  0000 L CNN
+F 1 "AO3400A" H 5305 1755 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5300 1725 50  0001 L CIN
+F 3 "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" H 5100 1800 50  0001 L CNN
+F 4 "C347475" H 5100 1800 50  0001 C CNN "LCSC"
+	1    5100 1800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5700 1400 5700 1550
+Wire Wire Line
+	5700 1550 5200 1550
+Connection ~ 5200 1550
+Wire Wire Line
+	5200 1550 5200 1600
+Wire Wire Line
+	6200 1400 6200 1550
+Wire Wire Line
+	6200 1550 5700 1550
+Connection ~ 5700 1550
+Wire Wire Line
+	6700 1400 6700 1550
+Wire Wire Line
+	6700 1550 6200 1550
+Connection ~ 6200 1550
+Wire Wire Line
+	7200 1400 7200 1550
+Wire Wire Line
+	7200 1550 6700 1550
+Connection ~ 6700 1550
+$Comp
+L power:GND #PWR?
+U 1 1 604D0CA6
+P 5200 2100
+AR Path="/604D0CA6" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0CA6" Ref="#PWR032"  Part="1" 
+F 0 "#PWR032" H 5200 1850 50  0001 C CNN
+F 1 "GND" H 5205 1927 50  0000 C CNN
+F 2 "" H 5200 2100 50  0001 C CNN
+F 3 "" H 5200 2100 50  0001 C CNN
+	1    5200 2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0CAC
+P 4700 1800
+AR Path="/604D0CAC" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0CAC" Ref="R20"  Part="1" 
+F 0 "R20" V 4504 1800 50  0000 C CNN
+F 1 "100R" V 4595 1800 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4700 1800 50  0001 C CNN
+F 3 "~" H 4700 1800 50  0001 C CNN
+F 4 "C22775" H 4700 1800 50  0001 C CNN "LCSC"
+	1    4700 1800
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5200 2000 5200 2050
+Wire Wire Line
+	4800 1800 4850 1800
+Text GLabel 4600 1800 0    50   Input ~ 0
+ch2
+$Comp
+L Device:R_Small R?
+U 1 1 604D0CB5
+P 1450 2800
+AR Path="/604D0CB5" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0CB5" Ref="R23"  Part="1" 
+F 0 "R23" H 1509 2846 50  0000 L CNN
+F 1 "100R" H 1509 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1450 2800 50  0001 C CNN
+F 3 "~" H 1450 2800 50  0001 C CNN
+F 4 "C22775" H 1450 2800 50  0001 C CNN "LCSC"
+	1    1450 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0CBB
+P 1950 2800
+AR Path="/604D0CBB" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0CBB" Ref="R24"  Part="1" 
+F 0 "R24" H 2009 2846 50  0000 L CNN
+F 1 "100R" H 2009 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1950 2800 50  0001 C CNN
+F 3 "~" H 1950 2800 50  0001 C CNN
+F 4 "C22775" H 1950 2800 50  0001 C CNN "LCSC"
+	1    1950 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0CC1
+P 2450 2800
+AR Path="/604D0CC1" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0CC1" Ref="R25"  Part="1" 
+F 0 "R25" H 2509 2846 50  0000 L CNN
+F 1 "100R" H 2509 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2450 2800 50  0001 C CNN
+F 3 "~" H 2450 2800 50  0001 C CNN
+F 4 "C22775" H 2450 2800 50  0001 C CNN "LCSC"
+	1    2450 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0CC7
+P 2950 2800
+AR Path="/604D0CC7" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0CC7" Ref="R26"  Part="1" 
+F 0 "R26" H 3009 2846 50  0000 L CNN
+F 1 "100R" H 3009 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2950 2800 50  0001 C CNN
+F 3 "~" H 2950 2800 50  0001 C CNN
+F 4 "C22775" H 2950 2800 50  0001 C CNN "LCSC"
+	1    2950 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0CCD
+P 3450 2800
+AR Path="/604D0CCD" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0CCD" Ref="R27"  Part="1" 
+F 0 "R27" H 3509 2846 50  0000 L CNN
+F 1 "100R" H 3509 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 3450 2800 50  0001 C CNN
+F 3 "~" H 3450 2800 50  0001 C CNN
+F 4 "C22775" H 3450 2800 50  0001 C CNN "LCSC"
+	1    3450 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 2700 1950 2700
+Connection ~ 1950 2700
+Wire Wire Line
+	1950 2700 2450 2700
+Connection ~ 2450 2700
+Wire Wire Line
+	2450 2700 2950 2700
+Connection ~ 2950 2700
+Wire Wire Line
+	2950 2700 3450 2700
+$Comp
+L power:+3.3V #PWR?
+U 1 1 604D0CFD
+P 1450 2700
+AR Path="/604D0CFD" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0CFD" Ref="#PWR033"  Part="1" 
+F 0 "#PWR033" H 1450 2550 50  0001 C CNN
+F 1 "+3.3V" H 1465 2873 50  0000 C CNN
+F 2 "" H 1450 2700 50  0001 C CNN
+F 3 "" H 1450 2700 50  0001 C CNN
+	1    1450 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 1450 2700
+$Comp
+L Transistor_FET:AO3400A Q?
+U 1 1 604D0D04
+P 1350 3550
+AR Path="/604D0D04" Ref="Q?"  Part="1" 
+AR Path="/604B4BC8/604D0D04" Ref="Q5"  Part="1" 
+F 0 "Q5" H 1555 3596 50  0000 L CNN
+F 1 "AO3400A" H 1555 3505 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1550 3475 50  0001 L CIN
+F 3 "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" H 1350 3550 50  0001 L CNN
+F 4 "C347475" H 1350 3550 50  0001 C CNN "LCSC"
+	1    1350 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 3150 1450 3300
+Wire Wire Line
+	1950 3150 1950 3300
+Wire Wire Line
+	1950 3300 1450 3300
+Connection ~ 1450 3300
+Wire Wire Line
+	1450 3300 1450 3350
+Wire Wire Line
+	2450 3150 2450 3300
+Wire Wire Line
+	2450 3300 1950 3300
+Connection ~ 1950 3300
+Wire Wire Line
+	2950 3150 2950 3300
+Wire Wire Line
+	2950 3300 2450 3300
+Connection ~ 2450 3300
+Wire Wire Line
+	3450 3150 3450 3300
+Wire Wire Line
+	3450 3300 2950 3300
+Connection ~ 2950 3300
+$Comp
+L power:GND #PWR?
+U 1 1 604D0D18
+P 1450 3850
+AR Path="/604D0D18" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0D18" Ref="#PWR037"  Part="1" 
+F 0 "#PWR037" H 1450 3600 50  0001 C CNN
+F 1 "GND" H 1455 3677 50  0000 C CNN
+F 2 "" H 1450 3850 50  0001 C CNN
+F 3 "" H 1450 3850 50  0001 C CNN
+	1    1450 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D1E
+P 950 3550
+AR Path="/604D0D1E" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D1E" Ref="R33"  Part="1" 
+F 0 "R33" V 754 3550 50  0000 C CNN
+F 1 "100R" V 845 3550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 950 3550 50  0001 C CNN
+F 3 "~" H 950 3550 50  0001 C CNN
+F 4 "C22775" H 950 3550 50  0001 C CNN "LCSC"
+	1    950  3550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1450 3750 1450 3800
+Wire Wire Line
+	1050 3550 1100 3550
+Text GLabel 850  3550 0    50   Input ~ 0
+ch3
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D27
+P 5200 2800
+AR Path="/604D0D27" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D27" Ref="R28"  Part="1" 
+F 0 "R28" H 5259 2846 50  0000 L CNN
+F 1 "100R" H 5259 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 5200 2800 50  0001 C CNN
+F 3 "~" H 5200 2800 50  0001 C CNN
+F 4 "C22775" H 5200 2800 50  0001 C CNN "LCSC"
+	1    5200 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D2D
+P 5700 2800
+AR Path="/604D0D2D" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D2D" Ref="R29"  Part="1" 
+F 0 "R29" H 5759 2846 50  0000 L CNN
+F 1 "100R" H 5759 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 5700 2800 50  0001 C CNN
+F 3 "~" H 5700 2800 50  0001 C CNN
+F 4 "C22775" H 5700 2800 50  0001 C CNN "LCSC"
+	1    5700 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D33
+P 6200 2800
+AR Path="/604D0D33" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D33" Ref="R30"  Part="1" 
+F 0 "R30" H 6259 2846 50  0000 L CNN
+F 1 "100R" H 6259 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 6200 2800 50  0001 C CNN
+F 3 "~" H 6200 2800 50  0001 C CNN
+F 4 "C22775" H 6200 2800 50  0001 C CNN "LCSC"
+	1    6200 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D39
+P 6700 2800
+AR Path="/604D0D39" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D39" Ref="R31"  Part="1" 
+F 0 "R31" H 6759 2846 50  0000 L CNN
+F 1 "100R" H 6759 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 6700 2800 50  0001 C CNN
+F 3 "~" H 6700 2800 50  0001 C CNN
+F 4 "C22775" H 6700 2800 50  0001 C CNN "LCSC"
+	1    6700 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D3F
+P 7200 2800
+AR Path="/604D0D3F" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D3F" Ref="R32"  Part="1" 
+F 0 "R32" H 7259 2846 50  0000 L CNN
+F 1 "100R" H 7259 2755 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 7200 2800 50  0001 C CNN
+F 3 "~" H 7200 2800 50  0001 C CNN
+F 4 "C22775" H 7200 2800 50  0001 C CNN "LCSC"
+	1    7200 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0D45
+P 5400 3150
+AR Path="/604D0D45" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0D45" Ref="J20"  Part="1" 
+F 0 "J20" H 5480 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 5480 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 5400 3150 50  0001 C CNN
+F 3 "~" H 5400 3150 50  0001 C CNN
+	1    5400 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0D4B
+P 5900 3150
+AR Path="/604D0D4B" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0D4B" Ref="J21"  Part="1" 
+F 0 "J21" H 5980 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 5980 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 5900 3150 50  0001 C CNN
+F 3 "~" H 5900 3150 50  0001 C CNN
+	1    5900 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0D51
+P 6400 3150
+AR Path="/604D0D51" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0D51" Ref="J22"  Part="1" 
+F 0 "J22" H 6480 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 6480 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 6400 3150 50  0001 C CNN
+F 3 "~" H 6400 3150 50  0001 C CNN
+	1    6400 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0D57
+P 6900 3150
+AR Path="/604D0D57" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0D57" Ref="J23"  Part="1" 
+F 0 "J23" H 6980 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 6980 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 6900 3150 50  0001 C CNN
+F 3 "~" H 6900 3150 50  0001 C CNN
+	1    6900 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0D5D
+P 7400 3150
+AR Path="/604D0D5D" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0D5D" Ref="J24"  Part="1" 
+F 0 "J24" H 7480 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 7480 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 7400 3150 50  0001 C CNN
+F 3 "~" H 7400 3150 50  0001 C CNN
+	1    7400 3150
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5200 2700 5700 2700
+Connection ~ 5700 2700
+Wire Wire Line
+	5700 2700 6200 2700
+Connection ~ 6200 2700
+Wire Wire Line
+	6200 2700 6700 2700
+Connection ~ 6700 2700
+Wire Wire Line
+	6700 2700 7200 2700
+$Comp
+L power:+3.3V #PWR?
+U 1 1 604D0D6F
+P 5200 2700
+AR Path="/604D0D6F" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0D6F" Ref="#PWR034"  Part="1" 
+F 0 "#PWR034" H 5200 2550 50  0001 C CNN
+F 1 "+3.3V" H 5215 2873 50  0000 C CNN
+F 2 "" H 5200 2700 50  0001 C CNN
+F 3 "" H 5200 2700 50  0001 C CNN
+	1    5200 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 5200 2700
+$Comp
+L Transistor_FET:AO3400A Q?
+U 1 1 604D0D76
+P 5100 3550
+AR Path="/604D0D76" Ref="Q?"  Part="1" 
+AR Path="/604B4BC8/604D0D76" Ref="Q6"  Part="1" 
+F 0 "Q6" H 5305 3596 50  0000 L CNN
+F 1 "AO3400A" H 5305 3505 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 5300 3475 50  0001 L CIN
+F 3 "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" H 5100 3550 50  0001 L CNN
+F 4 "C347475" H 5100 3550 50  0001 C CNN "LCSC"
+	1    5100 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5200 3150 5200 3300
+Wire Wire Line
+	5700 3150 5700 3300
+Wire Wire Line
+	5700 3300 5200 3300
+Connection ~ 5200 3300
+Wire Wire Line
+	5200 3300 5200 3350
+Wire Wire Line
+	6200 3150 6200 3300
+Wire Wire Line
+	6200 3300 5700 3300
+Connection ~ 5700 3300
+Wire Wire Line
+	6700 3150 6700 3300
+Wire Wire Line
+	6700 3300 6200 3300
+Connection ~ 6200 3300
+Wire Wire Line
+	7200 3150 7200 3300
+Wire Wire Line
+	7200 3300 6700 3300
+Connection ~ 6700 3300
+$Comp
+L power:GND #PWR?
+U 1 1 604D0D8A
+P 5200 3850
+AR Path="/604D0D8A" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0D8A" Ref="#PWR038"  Part="1" 
+F 0 "#PWR038" H 5200 3600 50  0001 C CNN
+F 1 "GND" H 5205 3677 50  0000 C CNN
+F 2 "" H 5200 3850 50  0001 C CNN
+F 3 "" H 5200 3850 50  0001 C CNN
+	1    5200 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D90
+P 4700 3550
+AR Path="/604D0D90" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D90" Ref="R34"  Part="1" 
+F 0 "R34" V 4504 3550 50  0000 C CNN
+F 1 "100R" V 4595 3550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4700 3550 50  0001 C CNN
+F 3 "~" H 4700 3550 50  0001 C CNN
+F 4 "C22775" H 4700 3550 50  0001 C CNN "LCSC"
+	1    4700 3550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5200 3750 5200 3800
+Wire Wire Line
+	4800 3550 4850 3550
+Text GLabel 4600 3550 0    50   Input ~ 0
+ch4
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D99
+P 1450 4600
+AR Path="/604D0D99" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D99" Ref="R37"  Part="1" 
+F 0 "R37" H 1509 4646 50  0000 L CNN
+F 1 "100R" H 1509 4555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1450 4600 50  0001 C CNN
+F 3 "~" H 1450 4600 50  0001 C CNN
+F 4 "C22775" H 1450 4600 50  0001 C CNN "LCSC"
+	1    1450 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0D9F
+P 1950 4600
+AR Path="/604D0D9F" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0D9F" Ref="R38"  Part="1" 
+F 0 "R38" H 2009 4646 50  0000 L CNN
+F 1 "100R" H 2009 4555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1950 4600 50  0001 C CNN
+F 3 "~" H 1950 4600 50  0001 C CNN
+F 4 "C22775" H 1950 4600 50  0001 C CNN "LCSC"
+	1    1950 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0DA5
+P 2450 4600
+AR Path="/604D0DA5" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0DA5" Ref="R39"  Part="1" 
+F 0 "R39" H 2509 4646 50  0000 L CNN
+F 1 "100R" H 2509 4555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2450 4600 50  0001 C CNN
+F 3 "~" H 2450 4600 50  0001 C CNN
+F 4 "C22775" H 2450 4600 50  0001 C CNN "LCSC"
+	1    2450 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0DAB
+P 2950 4600
+AR Path="/604D0DAB" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0DAB" Ref="R40"  Part="1" 
+F 0 "R40" H 3009 4646 50  0000 L CNN
+F 1 "100R" H 3009 4555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 2950 4600 50  0001 C CNN
+F 3 "~" H 2950 4600 50  0001 C CNN
+F 4 "C22775" H 2950 4600 50  0001 C CNN "LCSC"
+	1    2950 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0DB1
+P 3450 4600
+AR Path="/604D0DB1" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0DB1" Ref="R41"  Part="1" 
+F 0 "R41" H 3509 4646 50  0000 L CNN
+F 1 "100R" H 3509 4555 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 3450 4600 50  0001 C CNN
+F 3 "~" H 3450 4600 50  0001 C CNN
+F 4 "C22775" H 3450 4600 50  0001 C CNN "LCSC"
+	1    3450 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0DB7
+P 1650 4950
+AR Path="/604D0DB7" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0DB7" Ref="J25"  Part="1" 
+F 0 "J25" H 1730 4942 50  0000 L CNN
+F 1 "Conn_01x02" H 1730 4851 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 1650 4950 50  0001 C CNN
+F 3 "~" H 1650 4950 50  0001 C CNN
+	1    1650 4950
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0DBD
+P 2150 4950
+AR Path="/604D0DBD" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0DBD" Ref="J26"  Part="1" 
+F 0 "J26" H 2230 4942 50  0000 L CNN
+F 1 "Conn_01x02" H 2230 4851 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 2150 4950 50  0001 C CNN
+F 3 "~" H 2150 4950 50  0001 C CNN
+	1    2150 4950
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0DC3
+P 2650 4950
+AR Path="/604D0DC3" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0DC3" Ref="J27"  Part="1" 
+F 0 "J27" H 2730 4942 50  0000 L CNN
+F 1 "Conn_01x02" H 2730 4851 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 2650 4950 50  0001 C CNN
+F 3 "~" H 2650 4950 50  0001 C CNN
+	1    2650 4950
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0DC9
+P 3150 4950
+AR Path="/604D0DC9" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0DC9" Ref="J28"  Part="1" 
+F 0 "J28" H 3230 4942 50  0000 L CNN
+F 1 "Conn_01x02" H 3230 4851 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 3150 4950 50  0001 C CNN
+F 3 "~" H 3150 4950 50  0001 C CNN
+	1    3150 4950
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0DCF
+P 3650 4950
+AR Path="/604D0DCF" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0DCF" Ref="J29"  Part="1" 
+F 0 "J29" H 3730 4942 50  0000 L CNN
+F 1 "Conn_01x02" H 3730 4851 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 3650 4950 50  0001 C CNN
+F 3 "~" H 3650 4950 50  0001 C CNN
+	1    3650 4950
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	1450 4500 1950 4500
+Connection ~ 1950 4500
+Wire Wire Line
+	1950 4500 2450 4500
+Connection ~ 2450 4500
+Wire Wire Line
+	2450 4500 2950 4500
+Connection ~ 2950 4500
+Wire Wire Line
+	2950 4500 3450 4500
+$Comp
+L power:+3.3V #PWR?
+U 1 1 604D0DE1
+P 1450 4500
+AR Path="/604D0DE1" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0DE1" Ref="#PWR039"  Part="1" 
+F 0 "#PWR039" H 1450 4350 50  0001 C CNN
+F 1 "+3.3V" H 1465 4673 50  0000 C CNN
+F 2 "" H 1450 4500 50  0001 C CNN
+F 3 "" H 1450 4500 50  0001 C CNN
+	1    1450 4500
+	1    0    0    -1  
+$EndComp
+Connection ~ 1450 4500
+$Comp
+L Transistor_FET:AO3400A Q?
+U 1 1 604D0DE8
+P 1350 5350
+AR Path="/604D0DE8" Ref="Q?"  Part="1" 
+AR Path="/604B4BC8/604D0DE8" Ref="Q7"  Part="1" 
+F 0 "Q7" H 1555 5396 50  0000 L CNN
+F 1 "AO3400A" H 1555 5305 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 1550 5275 50  0001 L CIN
+F 3 "http://www.aosmd.com/pdfs/datasheet/AO3400A.pdf" H 1350 5350 50  0001 L CNN
+F 4 "C347475" H 1350 5350 50  0001 C CNN "LCSC"
+	1    1350 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 4950 1450 5100
+Wire Wire Line
+	1950 4950 1950 5100
+Wire Wire Line
+	1950 5100 1450 5100
+Connection ~ 1450 5100
+Wire Wire Line
+	1450 5100 1450 5150
+Wire Wire Line
+	2450 4950 2450 5100
+Wire Wire Line
+	2450 5100 1950 5100
+Connection ~ 1950 5100
+Wire Wire Line
+	2950 4950 2950 5100
+Wire Wire Line
+	2950 5100 2450 5100
+Connection ~ 2450 5100
+Wire Wire Line
+	3450 4950 3450 5100
+Wire Wire Line
+	3450 5100 2950 5100
+Connection ~ 2950 5100
+$Comp
+L power:GND #PWR?
+U 1 1 604D0DFC
+P 1450 5650
+AR Path="/604D0DFC" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0DFC" Ref="#PWR041"  Part="1" 
+F 0 "#PWR041" H 1450 5400 50  0001 C CNN
+F 1 "GND" H 1455 5477 50  0000 C CNN
+F 2 "" H 1450 5650 50  0001 C CNN
+F 3 "" H 1450 5650 50  0001 C CNN
+	1    1450 5650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E02
+P 950 5350
+AR Path="/604D0E02" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E02" Ref="R42"  Part="1" 
+F 0 "R42" V 754 5350 50  0000 C CNN
+F 1 "100R" V 845 5350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 950 5350 50  0001 C CNN
+F 3 "~" H 950 5350 50  0001 C CNN
+F 4 "C22775" H 950 5350 50  0001 C CNN "LCSC"
+	1    950  5350
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1450 5550 1450 5600
+Wire Wire Line
+	1050 5350 1100 5350
+Text GLabel 850  5350 0    50   Input ~ 0
+ch5
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E0B
+P 1100 1850
+AR Path="/604D0E0B" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E0B" Ref="R21"  Part="1" 
+F 0 "R21" H 1159 1896 50  0000 L CNN
+F 1 "10k" H 1159 1805 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1100 1850 50  0001 C CNN
+F 3 "~" H 1100 1850 50  0001 C CNN
+F 4 "C25804" H 1100 1850 50  0001 C CNN "LCSC"
+	1    1100 1850
+	1    0    0    -1  
+$EndComp
+Connection ~ 1100 1750
+Wire Wire Line
+	1100 1750 1150 1750
+Wire Wire Line
+	1100 1950 1100 2000
+Wire Wire Line
+	1100 2000 1450 2000
+Connection ~ 1450 2000
+Wire Wire Line
+	1450 2000 1450 2050
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E17
+P 4850 1900
+AR Path="/604D0E17" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E17" Ref="R22"  Part="1" 
+F 0 "R22" H 4909 1946 50  0000 L CNN
+F 1 "10k" H 4909 1855 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4850 1900 50  0001 C CNN
+F 3 "~" H 4850 1900 50  0001 C CNN
+F 4 "C25804" H 4850 1900 50  0001 C CNN "LCSC"
+	1    4850 1900
+	1    0    0    -1  
+$EndComp
+Connection ~ 4850 1800
+Wire Wire Line
+	4850 1800 4900 1800
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E1F
+P 4850 3650
+AR Path="/604D0E1F" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E1F" Ref="R36"  Part="1" 
+F 0 "R36" H 4909 3696 50  0000 L CNN
+F 1 "10k" H 4909 3605 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 4850 3650 50  0001 C CNN
+F 3 "~" H 4850 3650 50  0001 C CNN
+F 4 "C25804" H 4850 3650 50  0001 C CNN "LCSC"
+	1    4850 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 4850 3550
+Wire Wire Line
+	4850 3550 4900 3550
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E27
+P 1100 3650
+AR Path="/604D0E27" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E27" Ref="R35"  Part="1" 
+F 0 "R35" H 1159 3696 50  0000 L CNN
+F 1 "10k" H 1159 3605 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1100 3650 50  0001 C CNN
+F 3 "~" H 1100 3650 50  0001 C CNN
+F 4 "C25804" H 1100 3650 50  0001 C CNN "LCSC"
+	1    1100 3650
+	1    0    0    -1  
+$EndComp
+Connection ~ 1100 3550
+Wire Wire Line
+	1100 3550 1150 3550
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E2F
+P 1100 5450
+AR Path="/604D0E2F" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E2F" Ref="R43"  Part="1" 
+F 0 "R43" H 1159 5496 50  0000 L CNN
+F 1 "10k" H 1159 5405 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1100 5450 50  0001 C CNN
+F 3 "~" H 1100 5450 50  0001 C CNN
+F 4 "C25804" H 1100 5450 50  0001 C CNN "LCSC"
+	1    1100 5450
+	1    0    0    -1  
+$EndComp
+Connection ~ 1100 5350
+Wire Wire Line
+	1100 5350 1150 5350
+Wire Wire Line
+	1100 5550 1100 5600
+Wire Wire Line
+	1100 5600 1450 5600
+Connection ~ 1450 5600
+Wire Wire Line
+	1450 5600 1450 5650
+Wire Wire Line
+	1100 3750 1100 3800
+Wire Wire Line
+	1100 3800 1450 3800
+Connection ~ 1450 3800
+Wire Wire Line
+	1450 3800 1450 3850
+Wire Wire Line
+	4850 3750 4850 3800
+Wire Wire Line
+	4850 3800 5200 3800
+Connection ~ 5200 3800
+Wire Wire Line
+	5200 3800 5200 3850
+Wire Wire Line
+	4850 2000 4850 2050
+Wire Wire Line
+	4850 2050 5200 2050
+Connection ~ 5200 2050
+Wire Wire Line
+	5200 2050 5200 2100
+$Comp
+L Device:C_Small C?
+U 1 1 604D0E47
+P 1150 1000
+AR Path="/604D0E47" Ref="C?"  Part="1" 
+AR Path="/604B4BC8/604D0E47" Ref="C9"  Part="1" 
+F 0 "C9" H 1242 1046 50  0000 L CNN
+F 1 "4.7u" H 1242 955 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1150 1000 50  0001 C CNN
+F 3 "~" H 1150 1000 50  0001 C CNN
+F 4 "C19666" H 1150 1000 50  0001 C CNN "LCSC"
+	1    1150 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 900  1150 900 
+$Comp
+L power:GND #PWR?
+U 1 1 604D0E4E
+P 1150 1100
+AR Path="/604D0E4E" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0E4E" Ref="#PWR029"  Part="1" 
+F 0 "#PWR029" H 1150 850 50  0001 C CNN
+F 1 "GND" H 1155 927 50  0000 C CNN
+F 2 "" H 1150 1100 50  0001 C CNN
+F 3 "" H 1150 1100 50  0001 C CNN
+	1    1150 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 604D0E54
+P 4900 1050
+AR Path="/604D0E54" Ref="C?"  Part="1" 
+AR Path="/604B4BC8/604D0E54" Ref="C10"  Part="1" 
+F 0 "C10" H 4992 1096 50  0000 L CNN
+F 1 "4.7u" H 4992 1005 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4900 1050 50  0001 C CNN
+F 3 "~" H 4900 1050 50  0001 C CNN
+F 4 "C19666" H 4900 1050 50  0001 C CNN "LCSC"
+	1    4900 1050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5200 950  4900 950 
+$Comp
+L power:GND #PWR?
+U 1 1 604D0E5B
+P 4900 1150
+AR Path="/604D0E5B" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0E5B" Ref="#PWR030"  Part="1" 
+F 0 "#PWR030" H 4900 900 50  0001 C CNN
+F 1 "GND" H 4905 977 50  0000 C CNN
+F 2 "" H 4900 1150 50  0001 C CNN
+F 3 "" H 4900 1150 50  0001 C CNN
+	1    4900 1150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 604D0E61
+P 1150 2800
+AR Path="/604D0E61" Ref="C?"  Part="1" 
+AR Path="/604B4BC8/604D0E61" Ref="C11"  Part="1" 
+F 0 "C11" H 1242 2846 50  0000 L CNN
+F 1 "4.7u" H 1242 2755 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1150 2800 50  0001 C CNN
+F 3 "~" H 1150 2800 50  0001 C CNN
+F 4 "C19666" H 1150 2800 50  0001 C CNN "LCSC"
+	1    1150 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 2700 1150 2700
+$Comp
+L power:GND #PWR?
+U 1 1 604D0E68
+P 1150 2900
+AR Path="/604D0E68" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0E68" Ref="#PWR035"  Part="1" 
+F 0 "#PWR035" H 1150 2650 50  0001 C CNN
+F 1 "GND" H 1155 2727 50  0000 C CNN
+F 2 "" H 1150 2900 50  0001 C CNN
+F 3 "" H 1150 2900 50  0001 C CNN
+	1    1150 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 604D0E6E
+P 4900 2800
+AR Path="/604D0E6E" Ref="C?"  Part="1" 
+AR Path="/604B4BC8/604D0E6E" Ref="C12"  Part="1" 
+F 0 "C12" H 4992 2846 50  0000 L CNN
+F 1 "4.7u" H 4992 2755 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4900 2800 50  0001 C CNN
+F 3 "~" H 4900 2800 50  0001 C CNN
+F 4 "C19666" H 4900 2800 50  0001 C CNN "LCSC"
+	1    4900 2800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5200 2700 4900 2700
+$Comp
+L power:GND #PWR?
+U 1 1 604D0E75
+P 4900 2900
+AR Path="/604D0E75" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0E75" Ref="#PWR036"  Part="1" 
+F 0 "#PWR036" H 4900 2650 50  0001 C CNN
+F 1 "GND" H 4905 2727 50  0000 C CNN
+F 2 "" H 4900 2900 50  0001 C CNN
+F 3 "" H 4900 2900 50  0001 C CNN
+	1    4900 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C?
+U 1 1 604D0E7B
+P 1150 4600
+AR Path="/604D0E7B" Ref="C?"  Part="1" 
+AR Path="/604B4BC8/604D0E7B" Ref="C13"  Part="1" 
+F 0 "C13" H 1242 4646 50  0000 L CNN
+F 1 "4.7u" H 1242 4555 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 1150 4600 50  0001 C CNN
+F 3 "~" H 1150 4600 50  0001 C CNN
+F 4 "C19666" H 1150 4600 50  0001 C CNN "LCSC"
+	1    1150 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 4500 1150 4500
+$Comp
+L power:GND #PWR?
+U 1 1 604D0E82
+P 1150 4700
+AR Path="/604D0E82" Ref="#PWR?"  Part="1" 
+AR Path="/604B4BC8/604D0E82" Ref="#PWR040"  Part="1" 
+F 0 "#PWR040" H 1150 4450 50  0001 C CNN
+F 1 "GND" H 1155 4527 50  0000 C CNN
+F 2 "" H 1150 4700 50  0001 C CNN
+F 3 "" H 1150 4700 50  0001 C CNN
+	1    1150 4700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_Small R?
+U 1 1 604D0E88
+P 1450 1000
+AR Path="/604D0E88" Ref="R?"  Part="1" 
+AR Path="/604B4BC8/604D0E88" Ref="R9"  Part="1" 
+F 0 "R9" H 1509 1046 50  0000 L CNN
+F 1 "100R" H 1509 955 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 1450 1000 50  0001 C CNN
+F 3 "~" H 1450 1000 50  0001 C CNN
+F 4 "C22775" H 1450 1000 50  0001 C CNN "LCSC"
+	1    1450 1000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1450 1100 1450 1250
+Wire Wire Line
+	1950 1100 1950 1250
+Wire Wire Line
+	2450 1100 2450 1250
+Wire Wire Line
+	2950 1100 2950 1250
+Wire Wire Line
+	3450 1100 3450 1250
+Wire Wire Line
+	5200 1400 5200 1550
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0C61
+P 5400 1400
+AR Path="/604D0C61" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0C61" Ref="J10"  Part="1" 
+F 0 "J10" H 5480 1392 50  0000 L CNN
+F 1 "Conn_01x02" H 5480 1301 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 5400 1400 50  0001 C CNN
+F 3 "~" H 5400 1400 50  0001 C CNN
+	1    5400 1400
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	5200 1150 5200 1300
+Wire Wire Line
+	5700 1150 5700 1300
+Wire Wire Line
+	6200 1150 6200 1300
+Wire Wire Line
+	6700 1150 6700 1300
+Wire Wire Line
+	7200 1150 7200 1300
+Wire Wire Line
+	7200 2900 7200 3050
+Wire Wire Line
+	6700 2900 6700 3050
+Wire Wire Line
+	6200 2900 6200 3050
+Wire Wire Line
+	5700 2900 5700 3050
+Wire Wire Line
+	5200 2900 5200 3050
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0CEB
+P 3650 3150
+AR Path="/604D0CEB" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0CEB" Ref="J19"  Part="1" 
+F 0 "J19" H 3730 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 3730 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 3650 3150 50  0001 C CNN
+F 3 "~" H 3650 3150 50  0001 C CNN
+	1    3650 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0CE5
+P 3150 3150
+AR Path="/604D0CE5" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0CE5" Ref="J18"  Part="1" 
+F 0 "J18" H 3230 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 3230 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 3150 3150 50  0001 C CNN
+F 3 "~" H 3150 3150 50  0001 C CNN
+	1    3150 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0CDF
+P 2650 3150
+AR Path="/604D0CDF" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0CDF" Ref="J17"  Part="1" 
+F 0 "J17" H 2730 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 2730 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 2650 3150 50  0001 C CNN
+F 3 "~" H 2650 3150 50  0001 C CNN
+	1    2650 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0CD9
+P 2150 3150
+AR Path="/604D0CD9" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0CD9" Ref="J16"  Part="1" 
+F 0 "J16" H 2230 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 2230 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 2150 3150 50  0001 C CNN
+F 3 "~" H 2150 3150 50  0001 C CNN
+	1    2150 3150
+	1    0    0    1   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J?
+U 1 1 604D0CD3
+P 1650 3150
+AR Path="/604D0CD3" Ref="J?"  Part="1" 
+AR Path="/604B4BC8/604D0CD3" Ref="J15"  Part="1" 
+F 0 "J15" H 1730 3142 50  0000 L CNN
+F 1 "Conn_01x02" H 1730 3051 50  0000 L CNN
+F 2 "Connector_Molex:Molex_PicoBlade_53047-0210_1x02_P1.25mm_Vertical" H 1650 3150 50  0001 C CNN
+F 3 "~" H 1650 3150 50  0001 C CNN
+	1    1650 3150
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	1450 2900 1450 3050
+Wire Wire Line
+	1950 2900 1950 3050
+Wire Wire Line
+	2450 2900 2450 3050
+Wire Wire Line
+	2950 2900 2950 3050
+Wire Wire Line
+	3450 2900 3450 3050
+Wire Wire Line
+	1450 4700 1450 4850
+Wire Wire Line
+	1950 4700 1950 4850
+Wire Wire Line
+	2450 4700 2450 4850
+Wire Wire Line
+	2950 4700 2950 4850
+Wire Wire Line
+	3450 4700 3450 4850
+$EndSCHEMATC
